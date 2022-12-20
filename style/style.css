@@ -302,8 +302,8 @@
     line-height: 22px;
     color: var(--second-color);
     border: 1.5px solid var(--second-color);
-    width: 115px;
-    padding: 3px 1px;
+    width: max-content;
+    padding: 3px 7px;
     margin-left: 40px;
 }
 
